@@ -4,7 +4,7 @@ This is my home page! My name is Calvin Dang and I am a student at [Cal State Fu
 
 ## Computer Science Project
 
-My Github page is http://github.com/calvindang6.
+My Github page is [http://github.com/calvindang6](http://github.com/calvindang6).
 
 ### CPSC 120
 
